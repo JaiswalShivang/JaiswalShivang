@@ -5,23 +5,25 @@
 <br/>
 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;  flex-wrap: wrap;">
-  
-  <div align="left" style="max-width: 50%;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
+    <div align="left" style="flex: 1; min-width: 250px; max-width: 400px;">
+      
 - 🧑‍💻 I’m currently working on web development and competitive programming  
 - 🌱 I’m currently learning Data Structures & Algorithms (DSA)  
 - 📬 How to reach me: [jaiswalshivang01@gmail.com](mailto:jaiswalshivang01@gmail.com)  
 - ⚡ Fun fact: I debug better at 2 AM than 2 PM 😄
 
-  </div>
+    </div>
 
-  <div align="right" style="max-width: 50%;">
-    <img src="https://indianmemetemplates.com/wp-content/uploads/mai-merko-sab-ata-hai-mai-expert-hu.jpg" width="250px" alt="Meme Image"/>
-  </div>
+    <div align="right" style="flex: 1; min-width: 250px;">
+      <img src="https://indianmemetemplates.com/wp-content/uploads/mai-merko-sab-ata-hai-mai-expert-hu.jpg" width="250px" alt="Meme Image"/>
+    </div>
 
   </div>
 </div>
+
+---
 
 ### 🌐 Connect with me:
 
@@ -34,9 +36,12 @@
 
 <br><br>
 
+---
+
 ### 🛠️ Languages and Tools:
 
-<div style="display:flex">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
@@ -44,7 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" style="background-color: white; padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-</div>
+
+</p>
 
