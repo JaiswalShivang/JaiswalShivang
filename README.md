@@ -5,9 +5,9 @@
 <br/>
 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;  flex-wrap: wrap;">
   
-  <div align="left" style="max-width: 40%;">
+  <div align="left" style="max-width: 50%;">
 
 - 🧑‍💻 I’m currently working on web development and competitive programming  
 - 🌱 I’m currently learning Data Structures & Algorithms (DSA)  
@@ -23,8 +23,6 @@
   </div>
 </div>
 
----
-
 ### 🌐 Connect with me:
 
 <a href="https://www.linkedin.com/in/shivang-jaiswal-18809432b" target="_blank">
@@ -35,8 +33,6 @@
 </a>
 
 <br><br>
-
----
 
 ### 🛠️ Languages and Tools:
 
