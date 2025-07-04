@@ -7,7 +7,7 @@
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   
-  <div align="left" style="max-width: 50%;">
+  <div align="left" style="max-width: 40%;">
 
 - 🧑‍💻 I’m currently working on web development and competitive programming  
 - 🌱 I’m currently learning Data Structures & Algorithms (DSA)  
